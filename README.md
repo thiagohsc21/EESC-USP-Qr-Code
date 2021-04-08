@@ -115,9 +115,9 @@ Antes de realizarmos as operações na câmera, é necessário que ela tenha sup
 &nbsp;
 
 
-*Se alguma mensagem de erro referente a não identificação da câmera aparecer, é devido a um detalhe do código. 
+*Se alguma mensagem de erro referente a não identificação da câmera aparecer, é devido a um detalhe do código.*
 
-*Abra `qrcode.py` usando algum editor de texto e nas linhas de código abaixo, substitua o 0 pelo número X em /dev/videoX supracitado.
+*Abra `qrcode.py` usando algum editor de texto e nas linhas de código abaixo, substitua o 0 pelo número X em /dev/videoX supracitado.*
 ``` 
     #Iniciar a stream (iniciar a webcam) e permitir que o sensor da câmera aqueça
     print(TC.CYAN+"Iniciando processamento de vídeo..."+TC.WHITE)
@@ -125,7 +125,7 @@ Antes de realizarmos as operações na câmera, é necessário que ela tenha sup
     time.sleep(1.5) 
 ```
 
-*Agora basta prosseguir do passo 3. em diante.
+*Agora basta prosseguir do passo 3. em diante.*
 
 
     
