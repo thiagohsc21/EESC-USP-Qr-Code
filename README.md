@@ -100,7 +100,7 @@ Antes de realizarmos as operações na câmera, é necessário que ela tenha sup
 `$ gphoto2 --stdout --capture-movie | ffmpeg -i - -vcodec rawvideo -pix_fmt yuv420p -threads 0 -f v4l2 /dev/videoX`
 > Não esqueça de substituir o X do /dev/videoX pelo número do novo dispositivo criado. 
 
-* Para fins de teste, abra o VLC > Media > Open Capture Devices > Video Device Name > Escolha "/dev/videoX. 
+* Para fins de teste, abra o VLC > Media > Open Capture Devices > Video Device Name > Escolha "/dev/videoX". 
 > Se alguma imagem for gerada, parabéns!
 
 
