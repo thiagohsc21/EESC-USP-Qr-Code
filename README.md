@@ -121,11 +121,11 @@ Antes de realizarmos as operações na câmera, é necessário que ela tenha sup
 ``` 
     #Iniciar a stream (iniciar a webcam) e permitir que o sensor da câmera aqueça
     print(TC.CYAN+"Iniciando processamento de vídeo..."+TC.WHITE)
-    vid = WebcamVideoStream(0).start()
+    vid = VideoStream(0).start()
     time.sleep(1.5) 
 ```
 
-*Agora basta prosseguir do passo 3. em diante.*
+*Salve o novo código e agora basta prosseguir do passo 3. em diante.*
 
 
     
