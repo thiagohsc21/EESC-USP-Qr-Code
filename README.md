@@ -74,7 +74,9 @@ Antes de realizarmos as operações na câmera, é necessário que ela tenha sup
 > Provavelmente você verá alguns arquivos do tipo /dev/video0 ~ /dev/video1 ~  /dev/video2, esses são os 
 > dispositivos (ou dependências) de vídeo conectados ao computador. Não necessariamente cada um desses /dev/videoX são outputs de vídeo
 
-* Digite no terminal ignorando qualquer mensagem de erro: 
+#### -> A partir desse passo, selecione um terminal a parte, pois ele ficará aberto enquanto utilizarmos a câmera como webcam! <-
+
+* Digite ignorando qualquer mensagem de erro: 
 
 
 &nbsp;
@@ -101,7 +103,6 @@ Antes de realizarmos as operações na câmera, é necessário que ela tenha sup
 * Para fins de teste, abra o VLC > Media > Open Capture Devices > Video Device Name > Escolha "/dev/videoX. 
 > Se alguma imagem for gerada, parabéns!
 
-Enquanto fizer uso dessa câmera como webcam, você NÃO pode fechar o terminal em que realizamos tais operações!!!
 
 ## Tutorial para rodar o código
 1. Baixe o código `qrcode.py` em um diretório específico.
