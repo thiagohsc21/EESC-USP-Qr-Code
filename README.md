@@ -109,7 +109,7 @@ Antes de realizarmos as operações na câmera, é necessário que ela tenha sup
 2. Abra o terminal e digite `$ cd nome_do_diretório`
 3. Dentro desse direótiro, digite `$ python3 qrcode.py --saida frase.txt`
 4. Aponte um Qr Code para a câmera, ele será lido e decodificado.
-5. A resposta aparecerá na tela, mas também será gerado um arquivo .txt com a frase identificada.
+5. A resposta aparecerá na tela, mas também será gerado um arquivo .txt com a frase identificada e uma foto de quando ele foi interpretado.
 
 
 &nbsp;
