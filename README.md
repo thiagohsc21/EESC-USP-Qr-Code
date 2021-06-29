@@ -26,8 +26,8 @@
 
 
 &nbsp;
-`$ sudo apt-get install libzbar0`
-`$ pip3 install pyzbar`
+`$ sudo apt-get install libzbar0` e 
+ `$ pip3 install pyzbar`
 
 * Instalar o imutils (provavelmente já o tem, mas execute o comando mesmo assim):
 
