@@ -1,6 +1,6 @@
 # EESC-USP Qr Code
 ---
-## Tutorial para instalar os itens necessários para o código
+## Tutorial para instalar os itens necessários para o código (rascunho) 
 * Atualizar o sistema:
 
 
