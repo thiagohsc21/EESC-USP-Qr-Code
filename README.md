@@ -1,5 +1,7 @@
 # EESC-USP Qr Code
 ---
+Nota: esse não é o código final, é só um código básico para testes
+
 ## Tutorial para instalar os itens necessários para o código (rascunho) 
 * Atualizar o sistema:
 
